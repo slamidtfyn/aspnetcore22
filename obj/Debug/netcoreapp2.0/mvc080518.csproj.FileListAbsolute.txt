@@ -3,7 +3,6 @@ C:\temp\mvc080518\bin\Debug\netcoreapp2.0\mvc080518.runtimeconfig.json
 C:\temp\mvc080518\bin\Debug\netcoreapp2.0\mvc080518.runtimeconfig.dev.json
 C:\temp\mvc080518\bin\Debug\netcoreapp2.0\mvc080518.dll
 C:\temp\mvc080518\bin\Debug\netcoreapp2.0\mvc080518.pdb
-C:\temp\mvc080518\obj\Debug\netcoreapp2.0\mvc080518.csprojAssemblyReference.cache
 C:\temp\mvc080518\obj\Debug\netcoreapp2.0\mvc080518.csproj.CoreCompileInputs.cache
 C:\temp\mvc080518\obj\Debug\netcoreapp2.0\mvc080518.AssemblyInfoInputs.cache
 C:\temp\mvc080518\obj\Debug\netcoreapp2.0\mvc080518.AssemblyInfo.cs
