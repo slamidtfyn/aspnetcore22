@@ -7,5 +7,5 @@
 ```sh
 $ git clone https://github.com/slamidtfyn/dotnetcore21.git
 $ cd dotnetcore21
-$ docker-compose up
+$ docker-compose up --build
 ```

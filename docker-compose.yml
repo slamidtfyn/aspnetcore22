@@ -2,9 +2,6 @@ version: '3.4'
 
 services:
   mvc080518:
-    image: ${DOCKER_REGISTRY}mvc080518
-    build:
-      context: .
-      dockerfile: Dockerfile
+    build: .
     ports: 
       - "5000:80"
