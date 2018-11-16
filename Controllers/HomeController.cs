@@ -4,14 +4,16 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using mvc080518.Models;
+using dotnetcore22.Models;
+using dotnetcore22;
 
-namespace mvc080518.Controllers
+namespace dotnetcore22.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index([FromServices]CoreClrHelpers clrHelpers)
         {
+            ViewBag.Version=clrHelpers.GetCoreClrVersion();
             return View();
         }
 

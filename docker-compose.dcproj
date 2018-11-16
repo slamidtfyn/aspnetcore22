@@ -6,7 +6,7 @@
     <ProjectGuid>292e2dda-9c02-438d-b017-889214b23d27</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
-    <DockerServiceName>mvc080518</DockerServiceName>
+    <DockerServiceName>dotnetcore22</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">

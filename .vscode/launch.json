@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/mvc080518.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.2/dotnetcore22.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
@@ -30,7 +30,7 @@
                 }
             },
             "env": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
+                "ASPNETCORE_ENVIRONMENT": "Development",
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"
